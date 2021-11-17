@@ -1,0 +1,58 @@
+body {
+background-image: url("הורדה.jpg") ;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+width: 97%;
+margin: auto;
+}
+.card {
+margin: 10px; 
+}
+.col-sm-3{ float: right;
+}
+.custom-control {
+float: right;
+margin-left: 2%;
+}
+.modal-body >.btn {
+
+position: relative;
+margin-left: 90%;
+margin-top: -10%;
+}
+
+.card-body{
+min-height: 202px;
+}
+.card-body > button{
+position: relative;
+}
+h1{
+    text-align: center;
+    color: #575bde;
+    font-size: 5rem;
+    font-style: oblique;
+}
+.main-loader{
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    font-size: 30rem;
+}
+.search{
+    
+    width: max-content;
+    margin-top: -68px;
+    color: #e3f2fd;
+    float: right;
+
+}
+ol > .breadcrumb{
+    width: max-content;
+
+}
+#main-nav{
+width: 98%; margin: auto; margin-top: 23px; color: #e3f2fd"
+}
